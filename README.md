@@ -1,26 +1,45 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<p align="left">First and foremost, a technology enthusiast, software development lover and I'm always looking to improve my technical skills and theoretical knowledge. My main area of expertise is Java and Jakarta EE.
-In addition, I have a huge passion for algorithms and for solving complex problems, always looking for the best solutions to the challenges that arise in everyday life. I dedicate myself daily to self-study studies through books and documentation in order to master technologies based on market needs.
+# Hi there! 👋
 
-I'm always looking for new opportunities to work on interesting and challenging projects.</p>
+I'm a **Software Engineering** student specializing in **Artificial Intelligence** and also studying **Logistics**. I'm passionate about building robust, well-architected applications with clean code and best practices.
 
-- 🔭 I’m currently working on .. Nowhere, but I can work for/with you!
+## 🛠️ Tech Stack & Interests
 
-- 🌱 I’m currently learning about **Spring Boot, Event-Driven, JMS and Microservices Architecture**
+### Frontend Development
+I enjoy crafting vanilla front-end applications using modern tooling:
+- **TypeScript** for type-safe code
+- **HTML & CSS** for semantic and responsive designs
+- **Vitest** for fast and reliable unit testing
+- **Husky, ESLint, Prettier** for code quality and consistency
 
-- 💬 Ask me about **anything about Java EE**
+### Backend Development
+I'm passionate about backend development with:
+- **Spring Boot** applications
+- Building scalable and maintainable services
 
-- 📫 How to reach me **gabrielvaldivia.dev@outlook.com**
+## 💡 Development Philosophy
 
-- ⚡ Fun fact **I hated programming (for not knowing how to program) until my last year of high school**
+I believe in writing code that is:
+- **Clean Architecture** – organized, modular, and scalable
+- **Pragmatic** – solving real problems efficiently
+- **Test-Driven Development (TDD)** – writing tests first for reliable code
+- **Behavior-Driven Development (BDD)** – focusing on user behavior and outcomes
+- **Domain-Driven Design (DDD)** – aligning code with business domains
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🎯 What I'm Working On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- Deepening my knowledge in **Artificial Intelligence**
+- Building full-stack applications with **Spring Boot** and **TypeScript**
+- Developing versatile solutions that adapt to any domain-specific requirements
+- Exploring best practices in software architecture and design patterns
 
+## 🚀 My Approach
 
+I focus on building **flexible, modular applications** that can be tailored to meet any specific business needs. Whether it's e-commerce, logistics, healthcare, or any other domain, I believe in creating adaptable solutions that solve real-world problems across industries.
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64b913488a29ad56fa9aaafc?variant=dark" alt="roadmap.sh"/></a>
+## 📫 Let's Connect!
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on interesting projects!
+
+---
+
+*"Good code is its own best documentation."*
