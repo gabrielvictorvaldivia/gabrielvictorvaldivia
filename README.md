@@ -9,7 +9,7 @@ Amo estudar e compartilhar conhecimento. Meus hobbies são musculação, leitura
 ## Meus objetivos atuais:
 
 - Consolidar minha base em **React e Node.js**
-- Aprofundar conhecimento em **Java, Web3 e integrações com APIs**
+- Aprofundar conhecimento em **Clean Arch, DDD, Web3 e integrações com APIs**
 - Conquistar minha relocação no mercado como dev e contribuir em projetos reais que resolvam problemas concretos
 - Crescer em ambientes onde posso "sentar ao lado" e aprender com pessoas mais experientes
 
