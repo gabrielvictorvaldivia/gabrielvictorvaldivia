@@ -1,12 +1,6 @@
 # About Me
 
-I'm a **Mathematics** student, currently working as a **Production Planning (PCP) Intern** at Saint-Gobain, with a strong interest in **Software Engineering**, **Fullstack Development**, and emerging technologies.
-
-I'm currently focusing my studies on the **.NET ecosystem**, building applications with **C#**, **ASP.NET Core**, **Entity Framework Core**, and **React**.
-
-I enjoy learning, building projects, and sharing what I learn. My goal is to grow as a software developer by applying clean code, software design principles, and well-structured solutions.
-
-Outside of coding, I enjoy sports, reading, and music.
+I'm a **Mathematics** student, currently focusing my studies on the **.NET ecosystem**, building applications with **C#**, **ASP.NET Core**, **Entity Framework Core**, and **React**.
 
 ---
 
@@ -24,34 +18,11 @@ To make it easier to understand the purpose of each repository, I use the follow
 
 ---
 
-## Current Goals
-
-* Deepen my knowledge of **C# and .NET**
-* Build Fullstack applications with **.NET + React**
-* Study **Clean Architecture, DDD, SOLID, and Design Patterns**
-* Learn more about APIs, software integrations, and software architecture
-* Land my first software developer role and contribute to real-world projects
-* Continuously improve by learning and collaborating with other developers
-
----
-
 ## Technologies & Interests
-
-### Backend
 
 * C#
 * .NET / ASP.NET Core
-* Entity Framework Core
-* REST APIs
-
-### Frontend
-
 * React
-* JavaScript / TypeScript
-* HTML & CSS
-
-### Software Engineering
-
 * Clean Code
 * SOLID
 * Design Patterns
