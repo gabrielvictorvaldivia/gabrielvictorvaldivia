@@ -1,6 +1,6 @@
 # About Me
 
-I'm a **Mathematics** student, currently focusing my studies on the **.NET ecosystem**, building applications with **C#**, **ASP.NET Core**, **Entity Framework Core**, and **React**.
+I'm a **Software Engineering** student, currently focusing my studies on the **.NET ecosystem**, building applications with **C#**, **ASP.NET Core**, **Entity Framework Core**, and **React**.
 
 ---
 
