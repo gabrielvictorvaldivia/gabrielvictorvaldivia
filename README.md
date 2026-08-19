@@ -1,6 +1,6 @@
 # About Me
 
-I'm a **Software Engineering** student, currently focusing my studies on the **.NET ecosystem**, building applications with **C#**, **ASP.NET Core**, **Entity Framework Core**, and **React**.
+I'm a **Software Engineering** student, currently focusing my studies on the **Full-Stack Development with Java and React Ecossystem**, building applications with **Spring Boot**, **React**, **React Native**, and **JPA**.
 
 ---
 
@@ -20,9 +20,10 @@ To make it easier to understand the purpose of each repository, I use the follow
 
 ## Technologies & Interests
 
-* C#
-* .NET / ASP.NET Core
+* Java
+* Spring Boot / Quarkus
 * React
+* React Native
 * Clean Code
 * SOLID
 * Design Patterns
